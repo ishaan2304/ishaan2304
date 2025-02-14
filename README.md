@@ -41,5 +41,5 @@
 </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304&" alt="ishaan2304" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304" alt="ishaan2304" /></p>
 
