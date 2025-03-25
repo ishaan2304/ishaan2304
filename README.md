@@ -9,7 +9,7 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ishaan2304/)](https://www.linkedin.com/in/ishaan2304/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-nalawade/)](https://www.linkedin.com/in/ishan-nalawade/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ishaan2304)](https://twitter.com/ishaan2304) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ishaan2304)](https://github.com/ishaan2304) 
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ishaan2304)](https://www.facebook.com/ishaan2304)
