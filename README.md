@@ -12,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-nalawade/)](https://www.linkedin.com/in/ishan-nalawade/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ishaan2304)](https://github.com/ishaan2304) 
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ishaan2304)](https://www.facebook.com/ishaan2304)
+<a href="https://www.instagram.com/_ishaan__99/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
 <h3 align="left">Connect with me: ishannalawade9565@gmail.com</h3>
 <p align="left">
 </p>
