@@ -16,8 +16,10 @@
   </a>
   <a href="https://www.instagram.com/_ishaan__99/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
-</p
-
+      <a href="mailto:ishannalawade9565@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  </p>
 <h3 align="left">Connect with me: ishannalawade9565@gmail.com</h3>
 <p align="left">
 </p>
