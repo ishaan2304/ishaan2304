@@ -7,8 +7,6 @@
 
 ## Connect with me:
 
-## Connect with me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ishan-nalawade/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
