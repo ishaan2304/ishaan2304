@@ -10,15 +10,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-nalawade/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://github.com/ishaan2304" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://www.instagram.com/_ishaan__99/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
       <a href="mailto:ishannalawade9565@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
+  </a> 
   </p>
 <p align="left">
 </p>
