@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishan </h1>
 <h3 align="center">Passionate about turning coffee into code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan2304&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan2304" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
