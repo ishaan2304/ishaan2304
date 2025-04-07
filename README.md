@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan </h1>
 <h3 align="center">Passionate about turning coffee into code</h3>
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
