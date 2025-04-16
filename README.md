@@ -57,7 +57,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a>
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>]
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304" alt="ishaan2304" /></p>
 Feel free to connect
