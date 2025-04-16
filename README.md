@@ -2,11 +2,8 @@
 
   <h1 align="center">Hey, I'm Ishan </h1>
 <h3 align="center">Passionate about turning coffee into code</h3>
-
-
 ![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-
 <br>
 <br>
 <p align="center">
