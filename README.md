@@ -4,10 +4,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-nalawade/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
