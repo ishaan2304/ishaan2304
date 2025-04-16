@@ -1,6 +1,6 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  <h1 align="center">, I'm Ishan </h1>
+
+  <h1 align="center">Hey, I'm Ishan </h1>
 <h3 align="center">Passionate about turning coffee into code</h3>
 
 
