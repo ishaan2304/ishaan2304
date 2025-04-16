@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ishan </h1>
-<h3 align="center">Passionate about turning coffee into code</h3>
-
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
+  <h1 align="center">, I'm Ishan </h1>
+<h3 align="center">Passionate about turning coffee into code</h3>
+
+
 ![](https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
