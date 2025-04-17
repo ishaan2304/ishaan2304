@@ -1,5 +1,5 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-
+![Profile Views](https://komarev.com/ghpvc/?username=ishaan2304&label=Profile%20Views&color=0e75b6&style=flat)
   <h1 align="center">Hey, I'm Ishan </h1>
 <h3 align="center">Passionate about turning coffee into code</h3>
 
