@@ -59,4 +59,4 @@
 </a>                                                                                    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304" alt="ishaan2304" /></p>
-Feel free to connect
+
