@@ -7,25 +7,17 @@
   <img src="https://raw.githubusercontent.com/ishaan2304/ishaan2304/main/assets/terminal-icon.svg" height="30"/> <br />
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=24292e&height=100&section=header&text=%E2%8F%B1%20Ishan%20%E2%99%A5%20CODER&fontColor=00e676&fontSize=50" />
-
-  <!-- Centered code "identity" using a centered table cell for best cross-platform rendering -->
-  <table>
-    <tr>
-      <td align="center" bgcolor="#1e1e1e" style="padding:24px; border-radius:12px;">
-        <code>
-identity &#123;<br>
-&nbsp;&nbsp;name&nbsp;&nbsp;&nbsp;: "Ishan Nalawade";<br>
-&nbsp;&nbsp;role&nbsp;&nbsp;&nbsp;: "Developer";<br>
-&nbsp;&nbsp;mode&nbsp;&nbsp;&nbsp;: "Coding 💻";<br>
-&nbsp;&nbsp;traits&nbsp;&nbsp;: ["Creative", "Problem Solver", "Continuous Learner"];<br>
-&nbsp;&nbsp;mantra&nbsp;&nbsp;: "turning coffee into code ☕💻"<br>
-&#125;
-        </code>
-      </td>
-    </tr>
-  </table>
+  
+  <pre><code>
+  identity {
+    name     : "Ishan Nalawade";
+    role     : "Developer";
+    mode     : "Coding 💻";
+    traits   : ["Creative", "Problem Solver", "Continuous Learner"];
+    mantra   : "turning coffee into code ☕💻"
+  }
+  </code></pre>
 </div>
-
 <br/>
 
 ## 🔗 Connect With Me
