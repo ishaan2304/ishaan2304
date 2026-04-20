@@ -68,21 +68,11 @@ identity = {
 
 ## 📊 GitHub Statistics
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304&theme=radical" />
-
-</td>
-
-<td>
-
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="180"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304&theme=radical" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="160"/>
+</p>
 ### ✨ Let's Build Something Amazing Together! ✨
 
 </div>
