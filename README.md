@@ -4,19 +4,24 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ishaan2304/ishaan2304/main/assets/terminal-icon.svg" height="30"/> <br />
+<pre>
+         _      _       _
+  ___ __| | ___| | __ _| |_ ___  _ __
+ / __/ _` |/ _ \ |/ _` | __/ _ \| '__|
+| (_| (_| |  __/ | (_| | || (_) | |
+ \___\__,_|\___|_|\__,_|\__\___/|_|
+</pre>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=24292e&height=100&section=header&text=%E2%8F%B1%20Ishan%20%E2%99%A5%20CODER&fontColor=00e676&fontSize=50" />
-  
-  <pre><code>
-  identity {
-    name     : "Ishan Nalawade";
-    role     : "Developer";
-    mode     : "Coding 💻";
-    traits   : ["Creative", "Problem Solver", "Continuous Learner"];
-    mantra   : "turning coffee into code ☕💻"
-  }
-  </code></pre>
+<h1 align="center">Ishan Nalawade</h1>
+<h3 align="center"><code>Passionate&nbsp;Coder&nbsp;|&nbsp;{Coffee&nbsp;+&nbsp;Creativity&nbsp;}</code></h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://img.icons8.com/emoji/48/coffee-emoji.png" height="30"/>
+</p>
+
 </div>
 
 <br/>
