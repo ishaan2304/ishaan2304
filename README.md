@@ -4,10 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=header&text=⏱️%20Ishan%20♥%20CODER&fontColor=00ff9c&fontSize=35" />
-
-</div>
-
 ```bash
 > booting identity...
 
@@ -24,7 +20,7 @@ identity = {
 
   mantra   : "Turning coffee into code ☕💻"
 }
-
+</div>
 
 ## 🔗 Connect With Me
 
