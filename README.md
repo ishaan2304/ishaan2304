@@ -2,25 +2,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishaan2304\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <br/><br/>
-  
-  <img src="https://readme-identity.vercel.app/api/badge?label=CODER&message=ISHAN&color=242424&labelColor=00e676&style=for-the-badge&icon=code"/>
 
-  <h1>
-    <b>Hey, I'm Ishan</b>
-    <br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif?raw=true" width="35"/>
-  </h1>
+  <img src="https://raw.githubusercontent.com/ishaan2304/ishaan2304/main/assets/terminal-icon.svg" height="30"/> <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=24292e&height=100&section=header&text=%E2%8F%B1%20Ishan%20%E2%99%A5%20CODER&fontColor=00e676&fontSize=50" />
   
-  <h3>
-    <span style="color:#5fbae4;font-weight:bold;">{ Code. Coffee. Creativity. }</span>
-  </h3>
+  <pre><code>
+  identity {
+    name     : "Ishan Nalawade";
+    role     : "Developer";
+    mode     : "Coding 💻";
+    traits   : ["Creative", "Problem Solver", "Continuous Learner"];
+    mantra   : "turning coffee into code ☕💻"
+  }
+  </code></pre>
 </div>
 
 <br/>
