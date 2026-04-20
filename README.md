@@ -2,11 +2,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishaan2304\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
+
 <h1 align="center">Hey, I'm Ishan</h1>
 <h3 align="center">Passionate about turning coffee into code ☕💻</h3>
 
 
+<br/>
+
 ## 🔗 Connect With Me
+
+<br/>
 
 <p align="center">
 
@@ -29,10 +34,13 @@
 </p>
 
 
-</p>
+<br/>
+<br/>
 
 
 ## 💻 Languages and Tools
+
+<br/>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/>
@@ -48,7 +56,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40"/>
 </p>
 
+
+<br/>
+<br/>
+
+
 ## 📊 GitHub Statistics
+
+<br/>
 
 <div align="center">
 
@@ -59,7 +74,10 @@
 
 </div>
 
+
 ---
+
+<br/>
 
 <div align="center">
 
