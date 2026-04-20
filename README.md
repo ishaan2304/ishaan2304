@@ -9,9 +9,14 @@
 
 ## 🏆 Achievements
 
+
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ishaan2304\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=8)
+<img src="https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=true&margin-w=10"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishaan2304&show_icons=true&theme=radical"/>
 
 </div>
 
