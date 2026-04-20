@@ -2,8 +2,29 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishaan2304\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-<h1 align="center">Hey, I'm Ishan</h1>
-<h3 align="center">Passionate about turning coffee into code ☕💻</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=header&text=⏱️%20Ishan%20♥%20CODER&fontColor=00ff9c&fontSize=35" />
+
+</div>
+
+```bash
+> booting identity...
+
+identity = {
+  name     : "Ishan Nalawade",
+  role     : "Developer",
+  status   : "Coding 💻",
+
+  traits   : [
+              "Creative",
+              "Problem Solver",
+              "Continuous Learner"
+             ],
+
+  mantra   : "Turning coffee into code ☕💻"
+}
+
 
 ## 🔗 Connect With Me
 
