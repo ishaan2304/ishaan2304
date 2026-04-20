@@ -4,20 +4,28 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ishaan2304/ishaan2304/main/assets/terminal-icon.svg" height="30"/> <br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=header&text=⏱️%20Ishan%20♥%20CODER&fontColor=00ff9c&fontSize=35" />
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=24292e&height=100&section=header&text=%E2%8F%B1%20Ishan%20%E2%99%A5%20CODER&fontColor=00e676&fontSize=50" />
-  
-  <pre><code>
-  identity {
-    name     : "Ishan Nalawade";
-    role     : "Developer";
-    mode     : "Coding 💻";
-    traits   : ["Creative", "Problem Solver", "Continuous Learner"];
-    mantra   : "turning coffee into code ☕💻"
-  }
-  </code></pre>
 </div>
+
+```bash
+> booting identity...
+
+identity = {
+  name     : "Ishan Nalawade",
+  role     : "Developer",
+  status   : "Coding 💻",
+
+  traits   : [
+              "Creative",
+              "Problem Solver",
+              "Continuous Learner"
+             ],
+
+  mantra   : "Turning coffee into code ☕💻"
+}
+
+> system ready 🚀
 <br/>
 
 ## 🔗 Connect With Me
