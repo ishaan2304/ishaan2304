@@ -52,21 +52,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304&theme=radical" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishaan2304&show_icons=true&theme=radical" />
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="180"/>
+| | |
+|:-:|:-:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304&theme=radical" /> | <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="180"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ishaan2304&show_icons=true&theme=radical" /> | |
 
 </div>
 
