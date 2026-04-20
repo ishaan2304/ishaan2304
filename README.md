@@ -16,26 +16,22 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ishan-nalawade/">
-<img src="https://img.icons8.com/color/48/linkedin.png" height="35"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/ishaan2304">
-<img src="https://img.icons8.com/fluency/48/github.png" height="35"/>
+<img src="https://img.icons8.com/fluency/48/github.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_ishaan__99/">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="35"/>
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ishannalawade9565@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail.png" height="35"/>
+<img src="https://img.icons8.com/color/48/gmail.png" height="50"/>
 </a>
 
 </p>
-
-
-<br/>
-<br/>
 
 
 ## 💻 Languages and Tools
