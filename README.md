@@ -60,8 +60,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan2304&layout=compact&theme=radical" />
-
 </div>
 
 ---
