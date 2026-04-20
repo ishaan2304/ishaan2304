@@ -10,21 +10,25 @@
 ## 🔗 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/ishan-nalawade/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="35"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" height="35"/>
 </a>
+
 <a href="https://github.com/ishaan2304">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="35"/>
+<img src="https://img.icons8.com/fluency/48/github.png" height="35"/>
 </a>
+
 <a href="https://www.instagram.com/_ishaan__99/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="35"/>
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="35"/>
 </a>
+
 <a href="mailto:ishannalawade9565@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="35"/>
+<img src="https://img.icons8.com/color/48/gmail.png" height="35"/>
 </a>
+
 </p>
 
----
 
 ## 💻 Languages and Tools
 
