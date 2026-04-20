@@ -4,19 +4,17 @@
 
 
 <div align="center">
-
-```
-██╗░░██╗██╗░██████╗██╗░░██╗░█████╗░███╗░░██╗
-██║░░██║██║██╔════╝██║░░██║██╔══██╗████╗░██║
-███████║██║╚█████╗░███████║███████║██╔██╗██║
-██╔══██║██║░╚═══██╗██╔══██║██╔══██║██║╚████║
-██║░░██║██║██████╔╝██║░░██║██║░░██║██║░╚███║
-╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
-        👋 Hey, I'm Ishan 👋
-    ☕💻 Passionate about turning coffee into code ☕💻
-```
+  <h1 style="font-size:3em; font-family:Comic Sans MS, cursive, sans-serif;
+             background: linear-gradient(90deg,#ff5858,#fa8bff 60%,#2b86c5); 
+             color:transparent; background-clip:text; -webkit-background-clip:text;
+             -webkit-text-fill-color:transparent; text-shadow: 2px 2px #22222266;">
+    👋 Hey, I'm Ishan
+  </h1>
+  <h3 style="font-size:1.8em; font-family:'Fira Mono',monospace;
+             color:#FF914D; letter-spacing:1px; text-shadow: 1px 1px #22222233;">
+    ☕💻 Passionate about <span style="color:#21e6c1;">turning coffee into code</span> ☕💻
+  </h3>
 </div>
-
 
 <br/>
 
