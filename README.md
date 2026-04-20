@@ -72,7 +72,8 @@ identity = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2304&theme=radical" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="160"/>
-</p>
+</p>  
+
 ### ✨ Let's Build Something Amazing Together! ✨
 
 </div>
