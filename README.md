@@ -4,17 +4,19 @@
 
 <div align="center">
 
-<pre>
-         _      _       _
-  ___ __| | ___| | __ _| |_ ___  _ __
- / __/ _` |/ _ \ |/ _` | __/ _ \| '__|
-| (_| (_| |  __/ | (_| | || (_) | |
- \___\__,_|\___|_|\__,_|\__\___/|_|
-</pre>
+  <img src="https://raw.githubusercontent.com/ishaan2304/ishaan2304/main/assets/terminal-icon.svg" height="30"/> <br />
 
-<h1 align="center">Ishan Nalawade</h1>
-<h3 align="center"><code>Passionate&nbsp;Coder&nbsp;|&nbsp;{Coffee&nbsp;+&nbsp;Creativity&nbsp;}</code></h3>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=24292e&height=100&section=header&text=%E2%8F%B1%20Ishan%20%E2%99%A5%20CODER&fontColor=00e676&fontSize=50" />
+  
+  <pre><code>
+  identity {
+    name     : "Ishan Nalawade";
+    role     : "Developer";
+    mode     : "Coding 💻";
+    traits   : ["Creative", "Problem Solver", "Continuous Learner"];
+    mantra   : "turning coffee into code ☕💻"
+  }
+  </code></pre>
 </div>
 
 <br/>
