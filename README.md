@@ -57,11 +57,6 @@
 <br/>
 <br/>
 
-
-## 📊 GitHub Statistics
-
-<br/>
-
 <div align="center">
 
 | | |
