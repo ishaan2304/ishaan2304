@@ -5,22 +5,7 @@
 <h1 align="center">Hey, I'm Ishan</h1>
 <h3 align="center">Passionate about turning coffee into code ☕💻</h3>
 
----
 
-## 🏆 Achievements
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ishaan2304&theme=radical&no-frame=true&margin-w=10"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishaan2304&show_icons=true&theme=radical"/>
-
-</div>
-
----
 
 ## 🔗 Connect With Me
 
