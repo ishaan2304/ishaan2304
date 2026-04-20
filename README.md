@@ -4,15 +4,22 @@
 
 
 <div align="center">
-  <h1 style="font-size:3em; font-family:Comic Sans MS, cursive, sans-serif;
-             background: linear-gradient(90deg,#ff5858,#fa8bff 60%,#2b86c5); 
-             color:transparent; background-clip:text; -webkit-background-clip:text;
-             -webkit-text-fill-color:transparent; text-shadow: 2px 2px #22222266;">
-    👋 Hey, I'm Ishan
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <br/><br/>
+  
+  <img src="https://readme-identity.vercel.app/api/badge?label=CODER&message=ISHAN&color=242424&labelColor=00e676&style=for-the-badge&icon=code"/>
+
+  <h1>
+    <b>Hey, I'm Ishan</b>
+    <br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif?raw=true" width="35"/>
   </h1>
-  <h3 style="font-size:1.8em; font-family:'Fira Mono',monospace;
-             color:#FF914D; letter-spacing:1px; text-shadow: 1px 1px #22222233;">
-    ☕💻 Passionate about <span style="color:#21e6c1;">turning coffee into code</span> ☕💻
+  
+  <h3>
+    <span style="color:#5fbae4;font-weight:bold;">{ Code. Coffee. Creativity. }</span>
   </h3>
 </div>
 
