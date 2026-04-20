@@ -22,9 +22,7 @@ identity = {
 
   mantra   : "Turning coffee into code ☕💻"
 }
-
-> system ready 🚀
-
+```
 
 ## 🔗 Connect With Me
 
