@@ -9,7 +9,7 @@
 
 identity = {
   name     : "Ishan Nalawade",
-  role     : "Developer",
+  role     : "Engineer",
   status   : "Coding 💻",
 
   traits   : [
